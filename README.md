@@ -1,4 +1,14 @@
 # Minesweeper
+Setup and Run the code Steps:
+First to git clone the code https://github.com/zbj6266/Minesweeper.git
+Second go to the src folder cd Minesweeper/Minesweeper/src
+Third javac Minesweeper/Main.java
+Fourth java Minesweeper/Main
+This will run the code and please do the same step three and step four for Solver.java:
+javac Minesweeper/Solver.java
+java Minesweeper/Solver
+
+
 First Step: Please download the whole file and import into the java IDE as an project.
 
 Second Step: Please run the Main.java file under src/Minesweeper file
